@@ -16,6 +16,8 @@ def print_first_directors_movie_titles
   i = 0
  while i < movies_arr.length do
    obj = movies_arr[i]
+   
+   p obj
  end
  
 end
