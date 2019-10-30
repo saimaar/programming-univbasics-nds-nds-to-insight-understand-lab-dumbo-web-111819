@@ -15,8 +15,8 @@ def print_first_directors_movie_titles
   
   while i < array.length do
     obj = array[i][0]
-    names = obj[:name]
-    puts names
+    
+    puts obj
     i+=1
 end
 end
