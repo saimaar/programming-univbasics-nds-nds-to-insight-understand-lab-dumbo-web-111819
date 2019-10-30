@@ -9,8 +9,21 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  
+  array = pretty_print_nds
   i = 0 
-  while 
+  
+  while i < array.length do
+    arr2 = array[i]
+    j = 0 
+    
+  while j < arr2.length do
+    arr3 = arr2[j]
+    k = 0 
+    
+  while k < arr3.length do
+   obj = arr3[k]
+  end
+  end
+  end
   
 end
