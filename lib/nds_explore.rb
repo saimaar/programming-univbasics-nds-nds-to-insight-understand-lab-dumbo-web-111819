@@ -18,6 +18,8 @@ def print_first_directors_movie_titles
    obj = movies_arr[i]
    title = obj[:title]
    
+   puts title
+   
    i+= 1
  end
  
