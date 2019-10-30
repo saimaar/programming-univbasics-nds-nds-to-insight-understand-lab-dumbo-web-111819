@@ -9,7 +9,7 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  array = nds
+  array = pretty_print_nds
   i = 0 
   
   while i < array.length do
