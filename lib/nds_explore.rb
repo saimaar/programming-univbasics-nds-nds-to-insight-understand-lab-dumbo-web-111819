@@ -23,7 +23,7 @@ def print_first_directors_movie_titles
   while k < arr3.length do
    obj = arr3[k]
    names = obj[:name]
-   p names
+   puts names
    k += 1
   end
     j += 1
