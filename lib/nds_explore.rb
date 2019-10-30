@@ -22,6 +22,7 @@ def print_first_directors_movie_titles
     
   while k < arr3.length do
    obj = arr3[k]
+   
   end
   end
   end
