@@ -17,5 +17,6 @@ def print_first_directors_movie_titles
     obj = array[i]
     names = obj[:name]
     puts names
+    i+=1
 end
 end
