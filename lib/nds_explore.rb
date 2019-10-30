@@ -11,5 +11,7 @@ end
 
 def print_first_directors_movie_titles
   array = directors_database
-  p array 
+  first_dir = array[0]
+  
+  puts first_dir
 end
