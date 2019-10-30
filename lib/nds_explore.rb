@@ -18,6 +18,7 @@ def print_first_directors_movie_titles
    obj = movies_arr[i]
    
    p obj
+   i+= 1
  end
  
 end
