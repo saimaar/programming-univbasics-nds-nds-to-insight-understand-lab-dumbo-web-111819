@@ -14,7 +14,7 @@ def print_first_directors_movie_titles
   i = 0
   
   while i < array.length do
-    obj = array[i][0]
+    obj = array[i]
     
     puts obj
     i+=1
