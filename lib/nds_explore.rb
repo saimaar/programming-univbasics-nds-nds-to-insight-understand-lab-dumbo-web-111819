@@ -28,5 +28,4 @@ def print_first_directors_movie_titles
   end
   i += 1
   end
-  return obj[k]
 end
