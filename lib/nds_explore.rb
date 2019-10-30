@@ -13,7 +13,9 @@ def print_first_directors_movie_titles
   array = directors_database
   first_dir_obj = array[0]
   movies_arr = first_dir_obj[:movies]
-  
-  p movies_arr
+  i = 0
+ while i < movies_arr.length do
+   obj = movies_arr[i]
+ end
  
 end
