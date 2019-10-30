@@ -6,4 +6,3 @@ def directors_database
   
 end
 
-directors_database(pp)
