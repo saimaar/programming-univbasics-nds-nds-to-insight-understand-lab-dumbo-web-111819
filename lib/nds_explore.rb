@@ -12,6 +12,8 @@ end
 def print_first_directors_movie_titles
   array = directors_database
   first_dir_obj = array[0]
+  movies = first_dir_obj[:movies]
+  puts movies
   
-  puts first_dir
+ 
 end
