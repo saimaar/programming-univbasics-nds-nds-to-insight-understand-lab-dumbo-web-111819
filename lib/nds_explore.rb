@@ -11,9 +11,9 @@ end
 
 def print_first_directors_movie_titles
   array = directors_database
-  i = 0
+
   
-  while i < array.length do
+
     obj = array[i]
     
     puts obj
